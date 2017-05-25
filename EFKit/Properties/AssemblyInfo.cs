@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("EF.Functional")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("EFKit")]
+[assembly: AssemblyDescription("An EF library.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("EF.Functional")]
+[assembly: AssemblyCompany("Sir Phillip Tubell")]
+[assembly: AssemblyProduct("EFKit")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
